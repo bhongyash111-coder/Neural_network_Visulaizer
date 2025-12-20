@@ -1,6 +1,6 @@
 # 🧠 Neural Nets — Visualizing Forward & Backward Propagation  
 
-### 🌐 **Live Demo (GitHub Pages):** [bhongyash111-coder.github.io/Neral_network_Visulaizer](https://bhongyash111-coder.github.io/Neral_network_Visulaizer/)  
+### 🌐 **Live Demo (GitHub Pages):** [bhongyash111-coder.github.io/Neral_network_Visulaizer](https://bhongyash111-coder.github.io/Neural_network_Visulaizer/)  
 
 ---
 
@@ -115,3 +115,4 @@ This visualization helps you:
 
 
 #
+
